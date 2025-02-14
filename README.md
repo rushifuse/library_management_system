@@ -53,7 +53,7 @@ spring.datasource.password=yourpassword
 ```bash
 mvn spring-boot:run
 ```
-- Open `http://localhost:8080` in your browser.  
+- Open `http://localhost:9090` in your browser.  
 
 ---
 
