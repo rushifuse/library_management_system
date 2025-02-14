@@ -62,7 +62,9 @@ mvn spring-boot:run
 ---
 
 ## 📸 **Screenshots** (Add relevant images)  
-![Student Dashboard](link-to-image)  
+![Student Dashboard
+![image](https://github.com/user-attachments/assets/d4f9aa84-6433-4c2e-810a-440928e77ac1)
+
 ![Admin Panel](link-to-image)  
 
 ---
