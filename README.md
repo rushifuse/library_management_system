@@ -1,7 +1,3 @@
-Here’s a **detailed GitHub project description (README.md)** for your **Library Management System**:  
-
----
-
 # 📚 **Library Management System**  
 🔗 **GitHub Repository:** [Library Management System](https://github.com/rushifuse/library_management_system.git)  
 
