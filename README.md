@@ -62,10 +62,33 @@ mvn spring-boot:run
 ---
 
 ## 📸 **Screenshots** (Add relevant images)  
-![Student Dashboard
+Main Page
 ![image](https://github.com/user-attachments/assets/d4f9aa84-6433-4c2e-810a-440928e77ac1)
 
-![Admin Panel](link-to-image)  
+Student Index Page
+![image](https://github.com/user-attachments/assets/e18cb598-7abe-4a18-8661-3d9f4f405ab9)
+
+Student SignUp Page
+![image](https://github.com/user-attachments/assets/6f7ffe07-5ee0-40fc-8fda-a2dceb02d49f)
+
+Student Profile 
+![image](https://github.com/user-attachments/assets/29e751f1-b2d5-4814-a288-efd75f8eeb18)
+
+Admin Home Page
+![image](https://github.com/user-attachments/assets/155b1b0e-0801-43ad-9178-16ee069cb698)
+
+Student List
+![image](https://github.com/user-attachments/assets/d13aa79d-3fea-4eed-9190-67e51a19d2c6)
+
+Purchase Student List
+![image](https://github.com/user-attachments/assets/7a2ddac0-7077-4ddb-81fb-09c6f22f6703)
+![image](https://github.com/user-attachments/assets/f2bbd814-a3b9-432c-afa5-547ca8a9806a)
+
+Add Book 
+![image](https://github.com/user-attachments/assets/489a0b5f-0475-4171-8146-bd89bcdd49c5)
+
+Update Book Details 
+![image](https://github.com/user-attachments/assets/17879296-fffb-4acd-b18d-ce1140ea4536)
 
 ---
 
